@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "klocowo123.aternos.me ",
+    "ip": "klocowo123.aternos.me:57881 ",
     "port": 57881,
     "version": "",
     "try-creative": false
